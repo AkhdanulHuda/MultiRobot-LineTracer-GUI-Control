@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our Multi-Robot Line Tracer GUI & Control, 
 
 ## Team Members
 
-- Mechatronics B 2021:
+- Mechatronics A Group 2 2021:
   - Akhdanul Huda - 4121600004
   - Ziani Yaniar - 4121600007
 
